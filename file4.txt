@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Test is file4.txt
+=======
+Test
+
+This is content for file4
+>>>>>>> featureB
